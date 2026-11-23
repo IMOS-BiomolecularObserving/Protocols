@@ -7,7 +7,7 @@ analyses: DNA extraction [OBI:0000257]
 geographic_location: Australia:Beagle Gulf [GAZ:00051048], Australia:Great Australian Bight [GAZ:00045604], Australia:Tasman Sea coastal waters of continental Australia [GAZ:00143737], Australia:Moreton Bay Marine Park [GAZ:00088305], Australia:East Australian Current [GAZ:00000352], Australia:Eastern Indian Ocean coastal waters of Western Australia [GAZ:00051147], Australia:Great Barrier Reef Marine Park [GAZ:00049080] # TODO: GAZ term for Bonney Coast (VBM) not yet identified
 broad_scale_environmental_context: marine biome [ENVO:00000447]
 local_environmental_context: marine photic zone [ENVO:00000209]
-environmental_medium: sea water [ENVO:00002149] # TODO: consider a more specific ENVO material term for bulk zooplankton
+environmental_medium: planktonic material [ENVO:01000063]
 target: deoxyribonucleic acid (DNA) [NCIT:C449], environmental DNA [NCIT:C169106]
 creator: # names separated by commas
 materials_required: homogenizer, centrifuge [OBI:0400106], vortexer [OBI:0400118], thermomixer (shaking heat block)
