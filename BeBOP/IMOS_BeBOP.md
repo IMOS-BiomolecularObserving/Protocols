@@ -6,4 +6,4 @@
 - DNA extraction from NRS water samples
 - DNA extraction from NRS bulk plankton samples
 
-* Currently they are all in the `dev` folder to develop them
+Note: Currently they are all in the `dev` folder to develop them
